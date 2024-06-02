@@ -1,0 +1,10 @@
+0 Paracetamol
+1 Ibuprofeno
+2 Amoxicilina
+3 Loratadina
+4 Metformina
+5 Simvastatina
+6 Enalapril
+7 Aspirina
+8 Omeprazol
+9 Clonazepam
